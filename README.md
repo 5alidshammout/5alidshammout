@@ -3,7 +3,9 @@
 ### about
 
 **name:** Khalid Shammout
+
 **loaction:** Amman, Jordan
+
 **fovorate language:** frontend 
 
 ### languages with rate from 5
