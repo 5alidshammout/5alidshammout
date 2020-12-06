@@ -2,6 +2,8 @@
 
 ### about
 
+![Profile views](https://gpvc.arturio.dev/5alid-shammout)
+
 **name:** Khalid Shammout
 
 **loaction:** Amman, Jordan
