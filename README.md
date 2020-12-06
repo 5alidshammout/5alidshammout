@@ -6,7 +6,7 @@
 
 **loaction:** Amman, Jordan
 
-**fovorate language:** frontend 
+**favorate language:** frontend 
 
 ### languages with rate from 5
 * html    ████▒
