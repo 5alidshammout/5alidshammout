@@ -9,7 +9,7 @@
 **favorate language:** frontend 
 
 ### languages with rate from 5
-* html    ████▒
+* html    ████░
 * css     █████
 * js      ██▒▒▒
 * python  ███▒▒
