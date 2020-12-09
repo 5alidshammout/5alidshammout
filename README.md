@@ -10,7 +10,7 @@
 
 ### languages with rate from 5
 * html    ████░
-* css     █████
+* css     ████░
 * js      ██▒▒▒
 * python  ███▒▒
 
