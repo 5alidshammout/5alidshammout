@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5alid-shammout&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wbmrks Card](https://github-readme-stats.vercel.app/api/pin/?username=wbmrks&repo=wbmrks.github.io&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![wbmrks Card](https://github-readme-stats.vercel.app/api/pin/?username=wbmrks&repo=wbmrks.github.io&theme=yeblu)](https://github.com/WBMRKS/wbmrks.github.io)
 
 ### want to ask?
 **5alidshammout@gmail.com**
