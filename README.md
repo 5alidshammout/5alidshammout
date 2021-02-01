@@ -1,18 +1,6 @@
 # 5alid-shammout
 
-### about
-
-**name:** Khalid Shammout
-
-**loaction:** Amman, Jordan
-
-**favorate language:** frontend 
-
-### languages with rate from 5
-* html    ████░
-* css     ████░
-* js      ██▒▒▒
-* python  ███▒▒
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5alid-shammout&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### want to ask?
 **5alidshammout@gmail.com**
