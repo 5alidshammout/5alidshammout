@@ -8,7 +8,7 @@
   | | c> mkdir GH                  | |
   | | c> cd GH                     | |
   | | c/GH> npm init               | |
-  | | c/GH> echo Hi > Hello.txt    | |
+  | | c/GH> echo Hi! > Hello.txt   | |
   | |______________________________| |
   \________________________________⨀/ 
              / """"""""""" \   
