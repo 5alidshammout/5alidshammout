@@ -3,7 +3,7 @@
 ```javascript
 let Khalid = {
     fullName: "Khalid Shammout",
-    programmingLanguages: ["html", "css", "js"],
+    programmingLanguages: ["html", "css", "js", "ruby"],
     hobbies: Array.from({
         length: 100
     }, (_, i) => `${i + 1}: Coding`)
