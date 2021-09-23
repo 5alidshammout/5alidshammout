@@ -1,0 +1,5 @@
+- uses: Platane/snk@master
+  with:
+    github_user_name: 5alidshammout
+    gif_out_path: dist/github-snake.gif
+    svg_out_path: dist/github-snake.svg
