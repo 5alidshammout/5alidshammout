@@ -1,7 +1,7 @@
 # 5alidshammout
 
 ```javascript
-let Khalid = {
+const Khalid = {
     fullName: "Khalid Shammout",
     programmingLanguages: ["HTML", "CSS", "JS"],
     hobbies: Array.from({
