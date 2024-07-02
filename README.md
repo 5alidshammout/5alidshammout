@@ -5,9 +5,9 @@ const Khalid = {
     fullName: "Khalid Shammout",
     mostUsedUsername: "5alidshammout",
     programmingLanguages: ["HTML", "CSS", "JS", "PYTHON"],
-    learningQueue: ["TK"],
+    learningQueue: [],
     hobbies: Array.from({
         length: 100
-    }, (_, i) => `${i + 1}: Coding`)
+    }, (_, i) => `${i + 1}: Programming`)
 }
 ```
