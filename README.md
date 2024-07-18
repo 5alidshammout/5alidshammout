@@ -3,11 +3,12 @@
 ```javascript
 const Khalid = {
     fullName: "Khalid Shammout",
-    mostUsedUsername: "5alidshammout",
-    programmingLanguages: ["HTML", "CSS", "JS", "PYTHON"],
-    learningQueue: [],
+    username: "5alidshammout",
     hobbies: Array.from({
         length: 100
-    }, (_, i) => `${i + 1}: Programming`)
+    }, (_, i) => `${i + 1}: Programming`),
+    learning: ["React", "TS"],
+    OS: "Linux Mint Cinnamon",
+    IDE: "VS Code"
 }
 ```
