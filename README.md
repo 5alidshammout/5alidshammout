@@ -8,7 +8,8 @@ const Khalid = {
         length: 100
     }, (_, i) => `${i + 1}: Programming`),
     learning: ["React", "TS"],
-    OS: "Linux Mint Cinnamon",
+    OS: "Arch, btw",
+    DE: "N/A"
     IDE: "VS Code"
 }
 ```
