@@ -9,7 +9,7 @@ const Khalid = {
     }, (_, i) => `${i + 1}: Programming`),
     learning: ["React", "TS"],
     OS: "Arch, btw",
-    WM: "Hyprland",
+    WM: "swayfx",
     IDE: "nvim"
 }
 ```
