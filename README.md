@@ -7,9 +7,9 @@ const Khalid = {
     hobbies: Array.from({
         length: 100
     }, (_, i) => `${i + 1}: Programming`),
-    learning: ["React", "TS"],
-    OS: "Arch, btw",
-    WM: "Hyprland",
+    learning: "lost... haven't dicided yet.. :(",
+    OS: "nixos, btw",
+    DE: "xfce",
     IDE: "nvim"
 }
 ```
